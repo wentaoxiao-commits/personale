@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+
+
+header {
+    background-color: darkslategray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    color: white;
+    height: 8vh;
+    position: sticky;
+    top: 0%;
+}
+
+.hero {
+    height: 92vh;
+    background-color: aliceblue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
